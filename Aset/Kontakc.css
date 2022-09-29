@@ -43,10 +43,10 @@ html{
     border-bottom: 0px;
     align-items: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #553939;
   }
   span{
     color: red;
-   
     font-weight: 500;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
@@ -73,7 +73,7 @@ html{
   }
   nav .nav-brand2:hover,
   nav .nav-section2:hover {
-    color: #407bff;
+    color: #8e6c6c;
     transition: 0.3s;
   }
   /*akir nav*/
@@ -130,7 +130,7 @@ span{
     text-align: justify;
 }
 .pra p a{
-    background-color: white;
+    background-color: #D8CCA3;
     color: black;
     border: 2px solid black;
     font-weight: bold;

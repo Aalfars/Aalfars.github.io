@@ -41,8 +41,9 @@
     transition: all 0.3s;
     align-items: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #553939;
   }
-  span{
+  .nav-brand span{
     color: red;
     font-size: 3rem;
     font-weight: 500;
@@ -71,7 +72,7 @@
   }
   nav .nav-brand:hover,
   nav .nav-section:hover {
-    color: #407bff;
+    color: #8e6c6c;
     transition: 0.3s;
   }
   /*akir nav*/
@@ -90,14 +91,14 @@
     margin-bottom: 1rem;
     font-size: 40px;
     font-weight: 500;
-    font-family: ratri ;
+    font-family: serif ;
   }
-  y y66y
-  header .bag-satu .text-hello .span{
+   .text-hello span{
     margin-bottom: 1rem;
     font-size: 40px;
     font-weight: 500;
-    color: blue;
+    color: red;
+    font-family:serif ;
   }
   header .bag-satu p {
     font-size: 1.5rem;
@@ -114,7 +115,7 @@
   }
  
   .btn-info {
-    background: #1c3879;
+    background: #553939;
     border-radius: 20px;
     margin-top: 20px;
     padding: 15px 35px 15px 35px;
@@ -124,7 +125,7 @@
   }
   
   .btn-info:hover {
-    background: #ffa4e1;
+    background: #927070;
     text-decoration: solid;
   }
   #profil {

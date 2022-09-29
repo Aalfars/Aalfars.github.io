@@ -39,6 +39,7 @@
     cursor: pointer;
     transition: all 0.3s;
     align-items: center;
+    color: #553939;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
   span{
@@ -70,7 +71,7 @@
   }
   nav .nav-brand:hover,
   nav .nav-section:hover {
-    color: #407bff;
+    color: #8e6c6c;
     transition: 0.3s;
   }
   /*akir nav*/
