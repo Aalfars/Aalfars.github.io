@@ -137,7 +137,7 @@ span{
     padding: 9px 22px;
     border-radius: 30px;
 }
-.pra p a hover{
+.pra p a :hover{
     background-color: transparent;
     border: 2px solid black;
     cursor: pointer;
