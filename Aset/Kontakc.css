@@ -117,6 +117,7 @@ span{
     margin: 25px 0;
     color: black;
 }
+
 .card h5{
     color: black;
     font-size: 23px;
@@ -141,4 +142,5 @@ span{
     background-color: transparent;
     border: 2px solid black;
     cursor: pointer;
+    zoom: 5px;
 }
